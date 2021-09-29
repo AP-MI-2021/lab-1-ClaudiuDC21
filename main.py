@@ -1,8 +1,8 @@
-'''
+xsxsx'''
 Returneaza true daca n este prim si false daca nu.
 '''
 def is_prime(n):
-  # codul vostru aici
+  # codul vost
   
   
 '''
